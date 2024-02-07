@@ -43,7 +43,7 @@ export default function Home() {
                     
                 )}
                 horizontal
-                className='max-h10 mt-5'
+                className='max-h-10 mt-5'
                 showsHorizontalScrollIndicator={false}
                 contentContainerStyle={{ gap: 12, paddingHorizontal: 20 }}
             />
